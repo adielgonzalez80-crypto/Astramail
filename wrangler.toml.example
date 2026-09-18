@@ -1,0 +1,10 @@
+name = "correonova-v11"
+main = "correonova_worker.js"
+compatibility_date = "2026-09-17"
+
+# Cuando pasemos a almacenamiento Cloudflare, añadiremos aquí:
+# [[d1_databases]]
+# [[kv_namespaces]]
+# [[r2_buckets]]
+#
+# No guardes secretos directamente en este archivo.
